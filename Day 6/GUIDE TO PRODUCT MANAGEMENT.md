@@ -98,16 +98,16 @@ Stake Holder Map
 	- Explaining impact versus effort
 	- Showing customer feedback and data
 
-Building Trust and Alignment
+**Building Trust and Alignment**
 1. Credibility
 2. Reliability
 3. Empathy
 4. Transparency
 
-What does collaboration mean?
+***What does collaboration mean?***
 Co-create value across disciplines by aligning vision, fostering open communication, and ensuring everyone understands the "why".
 
-it looks like:
+***it looks like:***
 PM + Design -> problem discovery, journeys, prototypes
 PM + Engineering -> feasibility, solutions, trade-offs
 PM + Marketing -> go-to-market plans
@@ -115,3 +115,82 @@ PM + Business -> pricing, value capture, compliance
 PM + Leadership -> strategic alignment
 
 Great PMs don't give instructions; they create alignment.
+
+**Essential Product Terminology**
+1. Strategy and Planning - Vision, Roadmap, North Star, Metric, OKRs,  and KPIs are essential for setting direction and measuring progress in product management.
+2. Discovery - Personas, problem statement, journey maps, user interviews, surveys, and JBTD help uncover user needs and validate solutions.
+3. Vision and Roadmap - Vision defines the long-term goal; Roadmap outlines the steps to get .
+4. User Research Tools - Personas, Interviews
+
+**Analytics and Key Metrics**
+1. Activation - Measures quickly how users start using the product.
+2. Engagement - Tracks user activity, frequency
+3. Retention - Shows the percentage of users who continue using the product over time.
+4. Churn - Rate at which users stop using the product.
+
+**Tools Product Managers Use**
+1. Strategy and Planning - Figma
+2. Design and Prototyping - Figma, Sketch
+3. Agile and Project Tracking
+4. Analytics - Google
+
+Design tool: whimsical
+
+**Core Product Management Documents**
+1. Product Vision Document
+2. Product Strategy Framework
+3. Business Case
+4. Product Requirement Document (PRD)
+
+***Product brief:*** Executive summary, intro of the background (who, what are you solving), target audience, features you are proposing, competitive analysis, benefits to the business and user.
+
+**Characteristics: What Defines a World-Class PM?**
+1. Customer-Obsessed
+2. Data informed
+3. Story-Driven
+4. Strategic and Tactical
+
+**Systems Thinking**
+Understanding how parts interact to shape outcomes. Focus on patterns, relationships, feedback, and the structures driving behavior.
+- Interconnectedness
+- Feedback Loops
+- Causal Relationships, Not Symptoms
+- Fix Systems, Not Symptoms
+- Patterns and Deep Structure
+- Holistic Problem Solving
+
+**Applying Systems Thinking**
+1. Product Discovery
+2. Road mapping
+3. Scaling
+4. Stakeholder Alignment
+
+**Agile Delivery and Integration with Systems Thinking**
+1. Building value iteratively and fast
+2. Sprint Ceremonies
+3. Core Principle
+4. Backlog Management
+5. Agile Planning
+6. Agile Artifacts
+7. Agile Roles
+
+Outcome: continuous learning cycles that reduce risk and accelerate value delivery
+
+**Benefits of Agile Delivery**
+1. Speed
+2. Flexibility
+3. Better alignment
+4. Reduced Risk
+
+**How Systems Thinking + Agile Work Together**
+1. Complementary, not opposites
+2. Build the right thing, the right way
+3. Prevent firefighting, learn fast
+4. Align and accelerate
+5. Solve root causes, fast
+
+**The PM Mindset of The Future**
+1. Systems Thinking
+2. Agile Delivery
+3. Strategic Thinking
+4. Execution Excellence
